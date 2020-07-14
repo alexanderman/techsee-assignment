@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1477f2c79d2ea28bc7c4cc6c6e3f0912",
+    "revision": "40b2f77153eaa98a3e339803d1c93c6c",
     "url": "/techsee-assignment/index.html"
   },
   {
-    "revision": "7cf48a6feeda62790a4a",
+    "revision": "6a66d801279fe9a51678",
     "url": "/techsee-assignment/static/css/main.bfa7a389.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/techsee-assignment/static/js/2.909a9dc8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7cf48a6feeda62790a4a",
-    "url": "/techsee-assignment/static/js/main.f04b3799.chunk.js"
+    "revision": "6a66d801279fe9a51678",
+    "url": "/techsee-assignment/static/js/main.bd594fe7.chunk.js"
   },
   {
     "revision": "cfd8f4e446dddd65f03a",
