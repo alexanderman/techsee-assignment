@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/techsee-assignment/static/css/main.bfa7a389.chunk.css",
+    "main.js": "/techsee-assignment/static/js/main.f04b3799.chunk.js",
+    "main.js.map": "/techsee-assignment/static/js/main.f04b3799.chunk.js.map",
+    "runtime-main.js": "/techsee-assignment/static/js/runtime-main.5f02013b.js",
+    "runtime-main.js.map": "/techsee-assignment/static/js/runtime-main.5f02013b.js.map",
+    "static/js/2.909a9dc8.chunk.js": "/techsee-assignment/static/js/2.909a9dc8.chunk.js",
+    "static/js/2.909a9dc8.chunk.js.map": "/techsee-assignment/static/js/2.909a9dc8.chunk.js.map",
+    "index.html": "/techsee-assignment/index.html",
+    "precache-manifest.c16a089c61e7e56a11b2ccd7b87d4ec1.js": "/techsee-assignment/precache-manifest.c16a089c61e7e56a11b2ccd7b87d4ec1.js",
+    "service-worker.js": "/techsee-assignment/service-worker.js",
+    "static/css/main.bfa7a389.chunk.css.map": "/techsee-assignment/static/css/main.bfa7a389.chunk.css.map",
+    "static/js/2.909a9dc8.chunk.js.LICENSE.txt": "/techsee-assignment/static/js/2.909a9dc8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f02013b.js",
+    "static/js/2.909a9dc8.chunk.js",
+    "static/css/main.bfa7a389.chunk.css",
+    "static/js/main.f04b3799.chunk.js"
+  ]
+}
